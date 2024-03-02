@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "for jenkins trigger",
+  "main": "y",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamid804/product-jenkins-gateway-action.git"
+  },
+  "keywords": [
+    "jenkins",
+    "trigger"
+  ],
+  "author": "Hamid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamid804/product-jenkins-gateway-action/issues"
+  },
+  "homepage": "https://github.com/Hamid804/product-jenkins-gateway-action#readme"
+}
