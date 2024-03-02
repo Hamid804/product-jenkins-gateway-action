@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Hamid804/product-jenkins-gateway-action/issues"
   },
-  "homepage": "https://github.com/Hamid804/product-jenkins-gateway-action#readme"
+  "homepage": "https://github.com/Hamid804/product-jenkins-gateway-action#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
 }
