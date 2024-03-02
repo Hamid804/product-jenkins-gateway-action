@@ -2,7 +2,7 @@ name: 'Product Jenkins Gateway Action'
 description: 'Custom GitHub Action to trigger a Jenkins job.'
 inputs:
   jenkins-url:
-    description: 'http://20.244.84.139:8080/'
+    description: 'http://20.244.84.139:8080'
     required: true
 runs:
   using: 'node12'
